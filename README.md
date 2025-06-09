@@ -1,21 +1,30 @@
-# Projektname
+```markdown
+# IP Tracker
 
-## Projektbeschreibung
-Dies ist eine einfache Anwendung zur Verfolgung der IP-Adresse und Benutzeragent-Informationen.
+## Über
+Dies ist ein Tool zur Verfolgung von IP-Adressen und Proxy-Informationen, das Nutzern hilft, Informationen zu ihren Netzwerk-Anfragen zu erhalten.
 
----
+## Installation
+Bitte klonen Sie dieses Repository:
+1. Repository klonen:
+   ```
+   git clone https://github.com/linwangzhe99/ip-trackerz.git
+   ```
+2. Installation abschließen:
+   ```
+   cd ip-trackerz
+   npm install
+   ```
+3. Server starten:
+   ```
+   npm start
+   ```
 
-## Installationsschritte
-1. Klonen Sie dieses Repository:
-  2. Abhängigkeiten installieren:
-  3. 3. Server starten:
-     4. 
----
+Besuchen Sie http://localhost:3000, um Ihre IP-Adresse und Benutzeragent-Informationen anzuzeigen.
 
-## Nutzungsmethode
-Besuchen Sie `http://localhost:3000`, um Ihre IP-Adresse und Benutzeragent-Informationen anzuzeigen.
+## Beiträge
+Beiträge sind jederzeit willkommen; Sie können Änderungen über Pull-Requests einreichen.
 
----
-
-## Beitragsrichtlinien
-Beiträge sind jederzeit willkommen; Sie können Änderungen über Pull-Requests einreichen. 
+## Lizenz
+Dieses Projekt ist unter der MIT-Lizenz lizenziert - Einzelheiten finden Sie in der LICENSE-Datei.
+```
